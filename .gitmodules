@@ -1,0 +1,7 @@
+[submodule "blog/themes/hello-friend-ng"]
+	path = blog/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "blog/public"]
+	path = blog/public
+	url = https://github.com/Blitk0/blitq.github.io.git
+	branch = main
